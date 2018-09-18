@@ -1,5 +1,5 @@
 const magik = magikcraft.io
 
-function main() {
-  magik.dixit('Hello World')
+function main(name) {
+  magik.dixit('Hello ' + name)
 }
