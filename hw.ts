@@ -1,2 +1,2 @@
 const magik = magikcraft.io
-magik.dixit('Hello World!')
+magik.dixit('Hello World!');
