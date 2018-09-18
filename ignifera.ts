@@ -1,5 +1,5 @@
 const magik = magikcraft.io
 
-function main() {
+function main(ignifera) {
   magik.ignifera()
 }
